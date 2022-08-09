@@ -58,7 +58,7 @@
         {
           "company":"Comcast",
           "title":"Construction/Project Manager",
-          "years":"June 2016 - June 2022 (Laid-off as a result of Covid-19)",
+          "years":"June 2016 - June 2022",
           "description":"Total quality management on construction projects(residential, and commercial) from start to finish between all points of contacts including survey, draft, design, financial approvals, and quality assurance. "
         }
       ]
@@ -70,7 +70,7 @@
           "title":"Musitory",
           "shorttitle": "Musitory",
           "category":"Group Project",
-          "image":"",
+          "image":"Musitory.jpg",
           "info":"HTML, CSS, JS, Bulma",
           "url":"https://macpat83.github.io/Musitory/",
           "repo":"https://github.com/macpat83/Musitory"
@@ -79,7 +79,7 @@
           "title":"Musiposium",
           "shorttitle": "Musiposium",
           "category":"Group Project",
-          "image":"",
+          "image":"Musiposium.jpg",
           "info":"Express, MySQL, Handlebars, Node, Bulma, Bcrypt",
           "url":"https://secret-earth-58398.herokuapp.com/",
           "repo":"https://github.com/macpat83/project-2"
@@ -88,7 +88,7 @@
           "title":"Weather Dashboard",
           "shorttitle": "Weather Dashboard",
           "category":"Personal Project",
-          "image":"",
+          "image":"weatherdash.jpg",
           "info":"HTML, CSS, Javascript, JQuery",
           "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
           "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
@@ -97,7 +97,7 @@
           "title":"Budget Tracker",
           "shorttitle": "Budget Tracker",
           "category":"Personal Project",
-          "image":"",
+          "image":"budgettracker.jpg",
           "info":"PWA, Nodejs, Express, Javascript, IndexDB, MongoDB, Mongoose",
           "url":"https://nameless-atoll-49641.herokuapp.com/",
           "repo":"https://github.com/macpat83/budget-tracker"
@@ -106,7 +106,7 @@
           "title":"Tech Blog",
           "shorttitle": "Tech Blog",
           "category":"Academic Project",
-          "image":"",
+          "image":"techblog.jpg",
           "info":"Javascript, Express, Sequalize, Handlebars, MySQL",
           "url":"https://budget-tracker-18-pwa.herokuapp.com",
           "repo":"https://serene-big-bend-36736.herokuapp.com/"
@@ -115,7 +115,7 @@
           "title":"Movie PopQuiz",
           "shorttitle": "Movie PopQuiz",
           "category":"Academic Project",
-          "image":"",
+          "image":"MovieQuiz.jpg",
           "info":"HTML, CSS, Javascript",
           "url":"https://macpat83.github.io/PopQuiz/",
           "repo":"https://github.com/macpat83/PopQuiz"
@@ -124,7 +124,7 @@
           "title":"Daily Planner",
           "shorttitle": "Daily Planner",
           "category":"Academic Project",
-          "image":"",
+          "image":"dailyplanner.jpg",
           "info":"HTML, CSS, Javascript, JQuery",
           "url":"https://macpat83.github.io/daily-planner/",
           "repo":"https://github.com/macpat83/daily-planner"
@@ -133,7 +133,7 @@
           "title":"Bank Management",
           "shorttitle": "Bank Management",
           "category":"Personal Project",
-          "image":"",
+          "image":"bank.jpg",
           "info":"Unit Testing, Super classes, Exception Handling, OOP",
           "repo":"https://github.com/macpat83/bank-management"
         }
