@@ -133,7 +133,7 @@
           "title":"Bank Management",
           "shorttitle": "Bank Management",
           "category":"Personal Project",
-          "image":"bank.jpg",
+          "image":"bank.png",
           "info":"Unit Testing, Super classes, Exception Handling, OOP",
           "repo":"https://github.com/macpat83/bank-management"
         }
