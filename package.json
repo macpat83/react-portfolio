@@ -2,7 +2,6 @@
   "homepage": "https://macpat83.github.io/react-portfolio/",
   "name": "mckinleyportfolio",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "jquery": "^3.6.0",
