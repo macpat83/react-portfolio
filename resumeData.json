@@ -1,0 +1,142 @@
+{
+    "main": {
+      "name":"McKinley Wiltz",
+      "description":"Software Engineer / Full Stack / Android Developer",
+      "image":"profilepic.jpg",
+      "bio":"My name is Thomas Tutchings and I am a recent IT Bachelor's degree graduate and current UNC Coding Bootcamp Student. Based in Raleigh, NC, I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+      "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+      "email": "macpat@gmail.com",
+      "phone": "8329772855",
+      "github":"https://github.com/macpat83",
+      "project":"https://www.linkedin.com/in/mckinley-wiltz-567bb2170/",
+      "address":{
+        "street":"(Your Street)",
+        "city":"Houston",
+        "state":"TX",
+        "zip": "(Your Zip/Postal Code)"
+      },
+      "website": "https://github.com/macpat83",
+      "resumedownload":"https://drive.google.com/file/d/1cWfv0TP0ta6VY3MCsQWrX08jRxamFRvk/view?usp=sharing",
+      "social":[
+        {
+          "name":"github",
+          "url":"https://github.com/macpat83",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/mckinley-wiltz-567bb2170/",
+          "className":"fa fa-linkedin"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+      "education":[
+        {
+          "school":"University of Houston - Clear Lake",
+          "gpa": "3.65",
+          "degree":"Bachelor of Science, Computer Engineering",
+          "graduated":"May 2020",
+          "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+        },
+        {
+          "school":"LoneStar College",
+          "gpa": "3.0 GPA",
+          "degree":"Associates of Science",
+          "graduated":"December 2016",
+          "description":"General course work"
+        }
+      ],
+      "work":[
+        {
+          "company":"Comcast",
+          "title":"Software Engineer, Android Developer",
+          "years":"June 2022 - Present",
+          "description":"Digital/Linear Circuits, Microprocessor Interfacing, Software Engineering, Digital System Designs, Microcontroller Programming, Engineering Design and Project Management"
+        },
+        {
+          "company":"Comcast",
+          "title":"Construction/Project Manager",
+          "years":"June 2016 - June 2022",
+          "description":"Total quality management on construction projects(residential, and commercial) from start to finish between all points of contacts including survey, draft, design, financial approvals, and quality assurance. "
+        }
+      ]
+     
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Musitory",
+          "shorttitle": "Musitory",
+          "category":"Group Project",
+          "image":"Musitory.jpg",
+          "info":"HTML, CSS, JS, Bulma",
+          "url":"https://macpat83.github.io/Musitory/",
+          "repo":"https://github.com/macpat83/Musitory"
+        },
+        {
+          "title":"Musiposium",
+          "shorttitle": "Musiposium",
+          "category":"Group Project",
+          "image":"Musiposium.jpg",
+          "info":"Express, MySQL, Handlebars, Node, Bulma, Bcrypt",
+          "url":"https://secret-earth-58398.herokuapp.com/",
+          "repo":"https://github.com/macpat83/project-2"
+        },
+        {
+          "title":"Weather Dashboard",
+          "shorttitle": "Weather Dashboard",
+          "category":"Personal Project",
+          "image":"weatherdash.jpg",
+          "info":"HTML, CSS, Javascript, JQuery",
+          "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
+          "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
+        },
+        {
+          "title":"Budget Tracker",
+          "shorttitle": "Budget Tracker",
+          "category":"Personal Project",
+          "image":"budgettracker.jpg",
+          "info":"PWA, Nodejs, Express, Javascript, IndexDB, MongoDB, Mongoose",
+          "url":"https://nameless-atoll-49641.herokuapp.com/",
+          "repo":"https://github.com/macpat83/budget-tracker"
+        },
+        {
+          "title":"Tech Blog",
+          "shorttitle": "Tech Blog",
+          "category":"Academic Project",
+          "image":"techblog.jpg",
+          "info":"Javascript, Express, Sequalize, Handlebars, MySQL",
+          "url":"https://budget-tracker-18-pwa.herokuapp.com",
+          "repo":"https://serene-big-bend-36736.herokuapp.com/"
+        },
+        {
+          "title":"Movie PopQuiz",
+          "shorttitle": "Movie PopQuiz",
+          "category":"Academic Project",
+          "image":"MovieQuiz.jpg",
+          "info":"HTML, CSS, Javascript",
+          "url":"https://macpat83.github.io/PopQuiz/",
+          "repo":"https://github.com/macpat83/PopQuiz"
+        },
+        {
+          "title":"Daily Planner",
+          "shorttitle": "Daily Planner",
+          "category":"Academic Project",
+          "image":"dailyplanner.jpg",
+          "info":"HTML, CSS, Javascript, JQuery",
+          "url":"https://macpat83.github.io/daily-planner/",
+          "repo":"https://github.com/macpat83/daily-planner"
+        },
+        {
+          "title":"Bank Management",
+          "shorttitle": "Bank Management",
+          "category":"Personal Project",
+          "image":"bank.png",
+          "info":"Unit Testing, Super classes, Exception Handling, OOP",
+          "repo":"https://github.com/macpat83/bank-management"
+        }
+      ]
+    }
+  }
